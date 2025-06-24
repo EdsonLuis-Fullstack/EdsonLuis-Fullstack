@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🤖 Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias:
 
 <img 
     align="left" 
@@ -82,23 +82,25 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" 
 />
-<br>
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=EdsonLuis-Fullstack&show_icons=true&theme=default&include_all_commits=true&locale=pt-br" 
-  />
+<br><br>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonLuis-Fullstack&theme=default&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### 📊 Estatísticas
 
-</p>
-
-![snake gif](https://raw.githubusercontent.com/<SEU_USUARIO>/<SEU_USUARIO>/output/github-contribution-grid-snake.svg)
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=EdsonLuis-Fullstack&show_icons=true&theme=default&include_all_commits=true&locale=pt-br" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="Top Langs" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonLuis-Fullstack&theme=default&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      />
+    </td>
+  </tr>
+</table>
