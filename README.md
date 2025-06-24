@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o **Edson Luis**!
 
-🚀 Desenvolvedor com **18 anos** e apaixonado por programação desde os **11**. Aos 14 comecei minha jornada como **freelancer** e, ao longo de 5 meses de atuação na plataforma **Workana**, já faturei mais de **R$5 mil** entregando projetos reais para grandes clientes. 
+🚀 Desenvolvedor com **18 anos** e apaixonado por programação desde os **11**. Aos 14 comecei minha jornada como **freelancer** e, ao longo de 5 meses de atuação na plataforma **Workana ([Meu Perfil Workana](https://www.workana.com/freelancer/0ba3fc7d730d4e14bc56ad053a605c5e ))**, já faturei mais de **R$5 mil** entregando projetos reais para grandes clientes. 
 
 🎓 Concluí o ensino médio e o curso técnico em **Desenvolvimento de Sistemas** pela ETE, onde aprofundei meu conhecimento em criação de soluções web. 
 
@@ -8,7 +8,7 @@
 
 ---
 
-⚡ **Desenvolvedor Front end** • 🎯 **Especialista Web Design** • 📊 **Foco em Performance, Retenção e Conversão de leads ** • 💰 **Freelancer Experiente**
+⚡ **Desenvolvedor Front end** • 🎯 **Especialista Web Design** • 📊 **Foco em Performance, Retenção e Conversão de leads** • 💰 **Freelancer Experiente**
 ### 💻 Linguagens e Tecnologias:
 
 <img 
