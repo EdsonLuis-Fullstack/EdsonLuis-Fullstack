@@ -1,5 +1,14 @@
-## Hi there 👋
+## 👋 Olá, eu sou o **Edson Luis**!
 
+🚀 Desenvolvedor com **18 anos** e apaixonado por programação desde os **11**. Aos 14 comecei minha jornada como **freelancer** e, ao longo de 5 meses de atuação na plataforma **Workana**, já faturei mais de **R$5 mil** entregando projetos reais para grandes clientes. 
+
+🎓 Concluí o ensino médio e o curso técnico em **Desenvolvimento de Sistemas** pela ETE, onde aprofundei meu conhecimento em criação de soluções web. 
+
+💼 Desde os 15 anos venho trabalhando com **startups** e **agências de marketing** como desenvolvedor terceirizado, sempre comprometido em entregar qualquer projeto com **performance**, **excelência** e **foco em resultado** — seja uma landing page, um sistema completo ou qualquer desafio técnico que aparecer.
+
+---
+
+⚡ **Desenvolvedor Front end** • 🎯 **Especialista Web Design** • 📊 **Foco em Performance, Retenção e Conversão de leads ** • 💰 **Freelancer Experiente**
 ### 💻 Linguagens e Tecnologias:
 
 <img 
